@@ -1,5 +1,5 @@
 <h1 align="center">Ignite Timer</h1>
-:memo: Descrição
+## :memo: Descrição
 * Projeto ToDoList para treinar conceitos do React
 
 ## :books: Funcionalidades
