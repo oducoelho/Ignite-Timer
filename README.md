@@ -1,4 +1,5 @@
-# 02-ignite## :memo: Descrição
+Ignite Timer
+:memo: Descrição
 * Projeto ToDoList para treinar conceitos do React
 
 ## :books: Funcionalidades
