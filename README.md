@@ -1,7 +1,7 @@
 <h1 align="center">Ignite Timer</h1>
-## Home
+<h2>Home</h2>
 <img src="screenshot.PNG" />
-## Hístorico
+<h2>Hístorico</h2>
 <img src="screenshot2.PNG" />
 
 ## :memo: Descrição
