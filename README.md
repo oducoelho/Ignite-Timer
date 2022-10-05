@@ -1,20 +1,23 @@
 <h1 align="center">Ignite Timer</h1>
 ## Home
-<img src="screenshot.jpg" />
+<img src="screenshot.PNG" />
 ## Hístorico
-<img src="screenshot2.jpg" />
+<img src="screenshot2.PNG" />
 
 ## :memo: Descrição
-* Projeto ToDoList para treinar conceitos do React
+* Uma aplicação da técnica Pomodoro, que consiste na utilização de um cronômetro para dividir o trabalho em períodos de 25 minutos, separados por breves intervalos
 
 ## :books: Funcionalidades
-* Aplicação feita para para incerir uma tarefa marcar como feita, e deletar
+* um cronômetro para dividir o trabalho em períodos, e visualizar o historico do timer
      
 ## :wrench: Tecnologias utilizadas
-* Javascript
+* TypeScript
 * ReactJs
 * Phosphoricons
-* React-Icons
+* Styled Components
+* React Router Dom
+* React Hook Form
+* useContext
      
 ## :rocket: Rodando o projeto
 Realize o download dos arquivos e execute o comando "npm i" para baixar a node modules dos projetos
