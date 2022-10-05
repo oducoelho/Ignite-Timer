@@ -1,4 +1,9 @@
 <h1 align="center">Ignite Timer</h1>
+## Home
+<img src="screenshot.jpg" />
+## Hístorico
+<img src="screenshot2.jpg" />
+
 ## :memo: Descrição
 * Projeto ToDoList para treinar conceitos do React
 
