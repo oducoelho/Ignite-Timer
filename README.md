@@ -11,7 +11,7 @@
 * um cronômetro para dividir o trabalho em períodos, e visualizar o historico do timer
      
 ## :wrench: Tecnologias utilizadas
-* TypeScript
+* TypeScript 
 * ReactJs
 * Phosphoricons
 * Styled Components
